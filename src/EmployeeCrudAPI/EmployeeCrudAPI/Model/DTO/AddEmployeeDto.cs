@@ -6,7 +6,7 @@ namespace EmployeeCrudAPI.Model.DTO
     /// DTO for adding a new employee.
     /// Contains required fields: Name, Designation, and Age.
     /// </summary>
-    public class AddEmployeeDtocs
+    public class AddEmployeeDto
     {
         /// <summary>
         /// Full name of the employee.
